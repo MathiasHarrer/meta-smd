@@ -1,4 +1,4 @@
-<img src="https://tools.metapsy.org/logo.png" align="right" height="139"/>
+### Code & Additional Material for "Perils of Standardization: Divergences Between Change Score and Endpoint Effect Sizes in Meta-Analyses of Depression Psychotherapy" <img src="https://tools.metapsy.org/logo.png" align="right" height="139"/>
 
 ![](https://img.shields.io/badge/Maintenance-Read--Only_Repository-purple)
 
