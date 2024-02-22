@@ -1,6 +1,6 @@
 ### Code & Additional Material for "Perils of Standardization: Divergences Between Change Score and Endpoint Effect Sizes in Meta-Analyses of Depression Psychotherapy"
 
-![](https://img.shields.io/badge/Maintenance-Read--Only_Repository-purple)
+![](https://img.shields.io/badge/Maintenance-Read--Only_Repository-blue)
 
 -   The main code file for all analyses is `analysis.R`.
 -   This file imports utility functions from `utils/utils.R`, specifically the `calculateSMDs` helper.
