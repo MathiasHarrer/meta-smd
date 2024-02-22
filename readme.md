@@ -2,6 +2,8 @@
 
 ![](https://img.shields.io/badge/Maintenance-Read--Only_Repository-blue)
 
+----
+
 -   The main code file for all analyses is `analysis.R`.
 -   This file imports utility functions from `utils/utils.R`, specifically the `calculateSMDs` helper.
 -   Results, including all plots provided in the paper, are saved in `results`.
