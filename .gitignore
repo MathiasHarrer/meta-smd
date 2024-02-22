@@ -1,0 +1,12 @@
+data/
+manuscript/
+results/sim.uni.pha.rda
+results/sim.uni.rda
+results/sim.bv.rda
+results/sim.bv.pha.rda
+utils/common_metrics/
+utils/token.R
+utils/cm_conversion.R
+.Rproj.user
+.RData
+.Rhistory
