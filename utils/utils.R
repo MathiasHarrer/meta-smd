@@ -89,6 +89,8 @@ calculateSMDs = function(dat, rho) {
     s_cha = sqrt(((n_t_pos-1)*.s_t_cha^2+(n_c_pos-1)*.s_c_cha^2)/(n_t_pos + n_c_pos - 2))
     
     # Small-sample correction factor
+    # For consistency, we use the same approximation as 
+    # provided by Schroeders & Gnambs, 2024, RSM
     df = n_t_pos + n_c_pos - 2; cf = 1 - (3/(4*df-1))
     
     # Change SMD (pre-test)
